@@ -29,3 +29,6 @@ Daily progress notes.
 ### Jan 10, 2023 19:55
 - Improved responsiveness
 
+### Jan 12, 2023 09:26
+- Refactored state management
+
