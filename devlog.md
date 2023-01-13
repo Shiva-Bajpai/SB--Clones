@@ -32,3 +32,6 @@ Daily progress notes.
 ### Jan 12, 2023 09:26
 - Refactored state management
 
+### Jan 13, 2023 10:34
+- Added loading states
+
