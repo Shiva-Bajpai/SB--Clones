@@ -68,3 +68,6 @@ Daily progress notes.
 ### Jan 24, 2023 21:18
 - Updated dependencies
 
+### Jan 25, 2023 17:07
+- Fixed form validation
+
