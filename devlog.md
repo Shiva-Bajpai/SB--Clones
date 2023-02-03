@@ -1097,3 +1097,6 @@ Daily progress notes.
 ### Feb 02, 2023 22:25
 - Improved responsiveness
 
+### Feb 03, 2023 08:34
+- Worked on component styling
+
