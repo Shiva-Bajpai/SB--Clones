@@ -155,3 +155,6 @@ Daily progress notes.
 ### Feb 27, 2023 09:55
 - Improved navigation
 
+### Feb 28, 2023 13:04
+- Added accessibility features
+
