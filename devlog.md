@@ -1163,3 +1163,6 @@ Daily progress notes.
 ### Mar 06, 2023 09:48
 - Fixed layout issues
 
+### Mar 07, 2023 09:49
+- Improved navigation
+
