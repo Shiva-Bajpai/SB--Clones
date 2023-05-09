@@ -1313,3 +1313,6 @@ Daily progress notes.
 ### May 07, 2023 08:56
 - Improved responsiveness
 
+### May 09, 2023 10:00
+- Fixed form validation
+
