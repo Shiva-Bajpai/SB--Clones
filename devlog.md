@@ -1328,3 +1328,6 @@ Daily progress notes.
 ### May 11, 2023 16:21
 - Updated color scheme
 
+### May 13, 2023 12:11
+- Cleaned up unused code
+
