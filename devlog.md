@@ -383,3 +383,6 @@ Daily progress notes.
 ### Jun 04, 2023 12:47
 - Updated dependencies
 
+### Jun 05, 2023 10:09
+- Improved animations
+
