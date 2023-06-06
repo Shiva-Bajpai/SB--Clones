@@ -386,3 +386,6 @@ Daily progress notes.
 ### Jun 05, 2023 10:09
 - Improved animations
 
+### Jun 06, 2023 11:52
+- Updated color scheme
+
