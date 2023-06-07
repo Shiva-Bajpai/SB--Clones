@@ -1373,3 +1373,6 @@ Daily progress notes.
 ### Jun 04, 2023 16:26
 - Improved user experience
 
+### Jun 07, 2023 16:09
+- Added error handling
+
