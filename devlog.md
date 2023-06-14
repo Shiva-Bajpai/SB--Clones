@@ -407,3 +407,6 @@ Daily progress notes.
 ### Jun 14, 2023 12:57
 - Fixed edge case bugs
 
+### Jun 14, 2023 21:46
+- Fixed mobile layout
+
