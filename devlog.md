@@ -431,3 +431,6 @@ Daily progress notes.
 ### Jun 24, 2023 12:52
 - Worked on component styling
 
+### Jun 28, 2023 15:30
+- Fixed edge case bugs
+
