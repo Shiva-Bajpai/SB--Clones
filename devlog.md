@@ -443,3 +443,6 @@ Daily progress notes.
 ### Jul 05, 2023 14:45
 - Updated dependencies
 
+### Jul 06, 2023 09:29
+- Added error handling
+
