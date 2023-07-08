@@ -464,3 +464,6 @@ Daily progress notes.
 ### Jul 07, 2023 23:04
 - Optimized performance
 
+### Jul 08, 2023 08:42
+- Added loading states
+
