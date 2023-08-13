@@ -575,3 +575,6 @@ Daily progress notes.
 ### Aug 08, 2023 15:54
 - Updated documentation
 
+### Aug 13, 2023 18:29
+- Improved navigation
+
