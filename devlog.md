@@ -596,3 +596,6 @@ Daily progress notes.
 ### Aug 26, 2023 20:37
 - Updated documentation
 
+### Aug 26, 2023 23:11
+- Fixed mobile layout
+
