@@ -1601,3 +1601,6 @@ Daily progress notes.
 ### Sep 15, 2023 09:58
 - Worked on component styling
 
+### Sep 15, 2023 13:24
+- Improved animations
+
