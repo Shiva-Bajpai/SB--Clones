@@ -1613,3 +1613,6 @@ Daily progress notes.
 ### Sep 18, 2023 12:03
 - Optimized performance
 
+### Sep 19, 2023 21:37
+- Fixed form validation
+
