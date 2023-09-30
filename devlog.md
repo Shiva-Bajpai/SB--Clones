@@ -1640,3 +1640,6 @@ Daily progress notes.
 ### Sep 29, 2023 14:35
 - Updated color scheme
 
+### Sep 30, 2023 22:24
+- Added loading states
+
