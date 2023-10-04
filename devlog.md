@@ -707,3 +707,6 @@ Daily progress notes.
 ### Oct 04, 2023 20:48
 - Improved animations
 
+### Oct 04, 2023 23:35
+- Added error handling
+
