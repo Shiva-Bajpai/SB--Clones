@@ -794,3 +794,6 @@ Daily progress notes.
 ### Nov 18, 2023 08:12
 - Fixed layout issues
 
+### Nov 21, 2023 10:07
+- Added loading states
+
