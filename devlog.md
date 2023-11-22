@@ -800,3 +800,6 @@ Daily progress notes.
 ### Nov 21, 2023 17:46
 - Worked on component styling
 
+### Nov 22, 2023 10:37
+- Added error handling
+
