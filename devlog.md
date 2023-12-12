@@ -833,3 +833,6 @@ Daily progress notes.
 ### Dec 09, 2023 18:07
 - Cleaned up unused code
 
+### Dec 12, 2023 11:01
+- Added accessibility features
+
