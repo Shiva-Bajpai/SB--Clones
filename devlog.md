@@ -839,3 +839,6 @@ Daily progress notes.
 ### Dec 13, 2023 12:36
 - Improved user experience
 
+### Dec 14, 2023 18:28
+- Added loading states
+
