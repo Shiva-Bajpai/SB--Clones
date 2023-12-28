@@ -863,3 +863,6 @@ Daily progress notes.
 ### Dec 27, 2023 11:35
 - Fixed edge case bugs
 
+### Dec 28, 2023 08:51
+- Added accessibility features
+
