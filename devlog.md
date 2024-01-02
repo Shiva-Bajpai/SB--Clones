@@ -1883,3 +1883,6 @@ Daily progress notes.
 ### Jan 01, 2024 19:11
 - Improved animations
 
+### Jan 02, 2024 23:24
+- Added error handling
+
