@@ -881,3 +881,6 @@ Daily progress notes.
 ### Jan 02, 2024 17:36
 - Fixed layout issues
 
+### Jan 04, 2024 21:57
+- Added error handling
+
