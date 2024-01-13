@@ -908,3 +908,6 @@ Daily progress notes.
 ### Jan 12, 2024 17:56
 - Fixed mobile layout
 
+### Jan 13, 2024 11:55
+- Added accessibility features
+
