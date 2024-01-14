@@ -911,3 +911,6 @@ Daily progress notes.
 ### Jan 13, 2024 11:55
 - Added accessibility features
 
+### Jan 14, 2024 17:32
+- Worked on component styling
+
