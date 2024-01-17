@@ -1913,3 +1913,6 @@ Daily progress notes.
 ### Jan 16, 2024 22:28
 - Updated color scheme
 
+### Jan 17, 2024 14:58
+- Added error handling
+
