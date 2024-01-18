@@ -920,3 +920,6 @@ Daily progress notes.
 ### Jan 17, 2024 18:58
 - Updated dependencies
 
+### Jan 18, 2024 14:17
+- Fixed mobile layout
+
