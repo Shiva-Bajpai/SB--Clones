@@ -953,3 +953,6 @@ Daily progress notes.
 ### Feb 01, 2024 12:19
 - Fixed form validation
 
+### Feb 01, 2024 23:06
+- Worked on component styling
+
