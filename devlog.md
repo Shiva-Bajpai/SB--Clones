@@ -1946,3 +1946,6 @@ Daily progress notes.
 ### Feb 04, 2024 17:42
 - Cleaned up unused code
 
+### Feb 07, 2024 10:09
+- Worked on component styling
+
