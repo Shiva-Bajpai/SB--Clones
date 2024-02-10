@@ -971,3 +971,6 @@ Daily progress notes.
 ### Feb 08, 2024 18:54
 - Added accessibility features
 
+### Feb 10, 2024 21:58
+- Fixed layout issues
+
