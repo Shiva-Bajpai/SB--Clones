@@ -1955,3 +1955,6 @@ Daily progress notes.
 ### Feb 11, 2024 16:40
 - Updated color scheme
 
+### Feb 12, 2024 19:49
+- Refactored state management
+
