@@ -980,3 +980,6 @@ Daily progress notes.
 ### Feb 14, 2024 20:09
 - Cleaned up unused code
 
+### Feb 15, 2024 17:08
+- Improved responsiveness
+
