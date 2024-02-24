@@ -1976,3 +1976,6 @@ Daily progress notes.
 ### Feb 23, 2024 21:22
 - Fixed layout issues
 
+### Feb 24, 2024 14:38
+- Fixed mobile layout
+
