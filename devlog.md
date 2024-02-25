@@ -1979,3 +1979,6 @@ Daily progress notes.
 ### Feb 24, 2024 14:38
 - Fixed mobile layout
 
+### Feb 25, 2024 15:52
+- Fixed edge case bugs
+
