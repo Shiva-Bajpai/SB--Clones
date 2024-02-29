@@ -1028,3 +1028,6 @@ Daily progress notes.
 ### Feb 29, 2024 16:41
 - Updated color scheme
 
+### Feb 29, 2024 17:50
+- Improved responsiveness
+
