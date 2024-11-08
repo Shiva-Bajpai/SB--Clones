@@ -24,17 +24,10 @@ This project is all about enhancing my front-end development skills by:
    - **Description**: A clone of Apple’s main site, focusing on their clean, minimalist design and engaging visuals.
    - **Features**: Smooth scroll effects, interactive elements, mobile-friendly design.
 
-4. **Netflix**
-   - **Description**: A clone of Netflix's homepage, capturing the dark theme and content preview effects.
-   - **Features**: Carousel of movies and shows, hover effects, responsive layout.
-
-5. **Rosti**
+4. **Rosti**
    - **Description**: A clone of the Rosti website with attention to detail in typography, color, and layout.
    - **Features**: High-quality imagery, clean design, responsive elements.
 
-6. **Woodex**
-   - **Description**: A clone of Woodex’s product page, emphasizing the aesthetic and professional design.
-   - **Features**: Product gallery, hover animations, responsive design.
 
 ## 🚀 Getting Started
 
