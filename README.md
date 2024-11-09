@@ -15,18 +15,22 @@ This project is all about enhancing my front-end development skills by:
 1. **AirPods Pro**
    - **Description**: A clone of Apple’s AirPods Pro product page, featuring smooth animations and product highlights.
    - **Features**: Interactive animations, scroll effects, responsive layout.
+   - [See Live](https://sb-airpods-pro.netlify.app)
 
 2. **Amazon**
    - **Description**: A clone of Amazon's homepage, showcasing a functional and responsive e-commerce layout.
    - **Features**: Product carousel, dropdown navigation, responsive design.
+   - [See Live](https://sb-amazon.netlify.app)
 
 3. **Apple**
    - **Description**: A clone of Apple’s main site, focusing on their clean, minimalist design and engaging visuals.
    - **Features**: Smooth scroll effects, interactive elements, mobile-friendly design.
+   - [See Live](https://animations-sb.netlify.app)
 
 4. **Rosti**
    - **Description**: A clone of the Rosti website with attention to detail in typography, color, and layout.
    - **Features**: High-quality imagery, clean design, responsive elements.
+   - [See Live](https://sb-roasti.netlify.app))
 
 
 ## 🚀 Getting Started
