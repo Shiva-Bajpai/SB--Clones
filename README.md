@@ -30,7 +30,7 @@ This project is all about enhancing my front-end development skills by:
 4. **Rosti**
    - **Description**: A clone of the Rosti website with attention to detail in typography, color, and layout.
    - **Features**: High-quality imagery, clean design, responsive elements.
-   - [See Live](https://sb-roasti.netlify.app))
+   - [See Live](https://sb-roasti.netlify.app)
 
 
 ## 🚀 Getting Started
