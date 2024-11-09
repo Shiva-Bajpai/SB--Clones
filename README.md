@@ -63,10 +63,6 @@ Each folder includes:
 
 These clones are inspired by some of the most popular websites, and each clone is a learning project to practice front-end development, improve attention to detail, and enhance UI/UX design skills.
 
-## 📝 License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## 🤝 Contributing
 
 Contributions and suggestions are welcome! Feel free to submit pull requests or open issues if you have ideas for improvement.
